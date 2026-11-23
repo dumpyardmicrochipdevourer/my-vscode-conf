@@ -1,0 +1,13 @@
+vscodevim.vim
+pkief.material-icon-theme
+openai.chatgpt
+vscjava.vscode-java-pack
+redhat.vscode-yaml
+redhat.ansible
+ms-azuretools.vscode-containers
+ms-kubernetes-tools.vscode-kubernetes-tools
+tim-koehler.helm-intellisense
+hashicorp.terraform
+ms-python.python
+foxundermoon.shell-format
+timonwong.shellcheck
